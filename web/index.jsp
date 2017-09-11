@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+    <a href="${pageContext.request.contextPath}/item/cat/list.action?id=1">点击试试</a>
   </body>
 </html>
